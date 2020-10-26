@@ -13,6 +13,3 @@ exclude_patterns = [
 [[analyzers]]
 name = "ruby"
 enabled = true
-
-  [analyzers.meta]
-  plugin = "rubocop"

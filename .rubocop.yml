@@ -75,3 +75,6 @@ Style/WhileUntilModifier:
 
 Style/TernaryParentheses:
   Enabled: true
+ 
+Bundler/GemComment:
+  Whitelist: false

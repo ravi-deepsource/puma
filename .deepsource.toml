@@ -1,15 +1,5 @@
 version = 1
 
-test_patterns = ["test/**"]
-
-exclude_patterns = [
-    "bin/**",
-    "docs/**",
-    "examples/**",
-    "tools/**",
-    "win_gem_test/**"
-]
-
 [[analyzers]]
 name = "ruby"
 enabled = true
